@@ -1,2 +1,0 @@
-# liulijiang
-模型
